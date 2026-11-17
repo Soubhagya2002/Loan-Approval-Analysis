@@ -1,3 +1,4 @@
+
 # LOAN APPROVAL ANALYSIS
 ![Screenshot (34)](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/bcfacd0e-fb68-4464-b338-d75530f2182f)
 # Abstract
@@ -32,3 +33,7 @@ Bi-Variate analysis : This type of data involves two different variables. The an
 # Dataset 
 
 ![Screenshot (35)](https://github.com/shamitha29/loan_approval_analysis/assets/76781942/09f35f0a-2174-4cb8-82c1-8e51f58870d2)
+
+# Loan-Approval-Analysis
+Loan Approval Analysis using Python, Exploratory Data Analysis, Machine Learning and Tableau.
+
